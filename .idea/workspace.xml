@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91f43927-d68a-4e83-9775-e4757c61fd5b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23nS9VbJJT3RW8Y5jJYB4PHcQqW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/omi_ri/api" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests.srmServiceTests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DEVELOPMNT ENVIRONENT\omi_srm_Intergration_api\src\test\java\omi_ri\api" />
+      <recent name="D:\DEVELOPMNT ENVIRONENT\omi_srm_Intergration_api\src\test\java\omi_ri\utilities\api" />
+      <recent name="D:\DEVELOPMNT ENVIRONENT\omi_srm_Intergration_api\src\test\java\omi_ri\webPageObject" />
+      <recent name="D:\DEVELOPMNT ENVIRONENT\omi_srm_Intergration_api\src\test\java" />
+      <recent name="D:\DEVELOPMNT ENVIRONENT\omi_srm_Intergration_api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ApiTest.iGetARequest (1)">
+    <configuration name="ApiTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.srmServiceTests.ApiTest" />
+      <module name="omi_srm_Intergration_api" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tests.srmServiceTests.ApiTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="omi_srm_Intergration_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.srmServiceTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.srmServiceTests" />
+      <option name="MAIN_CLASS_NAME" value="tests.srmServiceTests.ApiTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.iGetARequest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="omi_srm_Intergration_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.srmServiceTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.srmServiceTests" />
+      <option name="MAIN_CLASS_NAME" value="tests.srmServiceTests.ApiTest" />
+      <option name="METHOD_NAME" value="iGetARequest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.iGetARequest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="omi_srm_Intergration_api" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.srmServiceTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="tests.srmServiceTests" />
+      <option name="MAIN_CLASS_NAME" value="tests.srmServiceTests.ApiTest" />
+      <option name="METHOD_NAME" value="iGetARequest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ApiTest" />
+      <item itemvalue="TestNG.ApiTest.iGetARequest" />
+      <item itemvalue="TestNG.ApiTest.iGetARequest (1)" />
+      <item itemvalue="TestNG.ApiTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ApiTest.iGetARequest (1)" />
+        <item itemvalue="TestNG.ApiTest" />
+        <item itemvalue="TestNG.ApiTest.iGetARequest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91f43927-d68a-4e83-9775-e4757c61fd5b" name="Default Changelist" comment="" />
+      <created>1642368206256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642368206256</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1642368376926">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1642368376926" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643569795763">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.672@0.0.1280.672" timestamp="1643569795763" />
+    <state x="273" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1642374336265">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="273" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1642374336265" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1642372116302">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1642372116302" />
+    <state width="1237" height="244" key="GridCell.Tab.0.bottom" timestamp="1643571456294">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="244" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1643571456294" />
+    <state width="1237" height="244" key="GridCell.Tab.0.center" timestamp="1643571456294">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="244" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1643571456294" />
+    <state width="1237" height="244" key="GridCell.Tab.0.left" timestamp="1643571456294">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="244" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1643571456294" />
+    <state width="1237" height="244" key="GridCell.Tab.0.right" timestamp="1643571456294">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="244" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1643571456294" />
+    <state width="1237" height="442" key="GridCell.Tab.1.bottom" timestamp="1643571371355">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="442" key="GridCell.Tab.1.bottom/0.0.1280.672@0.0.1280.672" timestamp="1643571371355" />
+    <state width="1237" height="442" key="GridCell.Tab.1.center" timestamp="1643571371355">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="442" key="GridCell.Tab.1.center/0.0.1280.672@0.0.1280.672" timestamp="1643571371355" />
+    <state width="1237" height="442" key="GridCell.Tab.1.left" timestamp="1643571371354">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="442" key="GridCell.Tab.1.left/0.0.1280.672@0.0.1280.672" timestamp="1643571371354" />
+    <state width="1237" height="442" key="GridCell.Tab.1.right" timestamp="1643571371355">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="442" key="GridCell.Tab.1.right/0.0.1280.672@0.0.1280.672" timestamp="1643571371355" />
+    <state x="349" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1642372550380">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="349" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1642372550380" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/srmServiceTests/ApiTest.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
